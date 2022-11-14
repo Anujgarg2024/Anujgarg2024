@@ -1,4 +1,4 @@
-                                                           ### Hi  👋 , I'am Anuj Garg
+                                                            Hi 👋 , I'am Anuj Garg
                                                            
                                                            i am WebDeveloper and coder
 
